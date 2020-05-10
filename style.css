@@ -1,0 +1,59 @@
+*{
+	margin:0;
+	padding:0;
+	
+}
+.header
+{
+	height:100vh;
+}
+
+img{
+	height:60px;
+}
+.navbar-style
+{
+	box-shadow:0 5px 10px #efefef;
+}
+.icon-bar{
+	background:darkorange;
+
+}
+li a
+{
+	color:black;
+}
+.big-text{
+	font-size:52px;
+	margin:20px 0;
+	color:darkorange;
+
+}
+img{
+	
+
+ 	display: block;
+ 	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+.footer{
+	border-top:5px solid rgba(0,0,0,0.7);
+	height:120px;
+	padding-top:12px;
+	padding-bottom:7px;
+	left:0;
+	bottom:0;
+	width:100%;
+	background-color:darkorange;
+	color:white;
+	text-align:center;
+	
+	margin-top:20px;
+}
+
+.footer:hover{
+	color:black;
+	transition:0.2s ease;
+}
